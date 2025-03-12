@@ -1,0 +1,5 @@
+print("hello git")
+print("how")
+print("new")
+print("YES")
+print("hi")
